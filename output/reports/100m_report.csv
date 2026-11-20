@@ -1,0 +1,7 @@
+Rank,Athlete ID,Athlete Name,Average,Best,Worst,Standard Deviation,Sessions,Improvement,Improved
+1,A06,A06,12.35,12.2,12.5,0.129,4,0.3,True
+2,A03,A03,12.6,12.4,12.8,0.183,4,0.4,True
+3,A04,A04,12.967,12.8,13.1,0.153,3,0.3,True
+4,A02,A02,13.725,13.5,13.9,0.171,4,0.4,True
+5,A01,A01,13.9,13.6,14.2,0.258,4,0.6,True
+6,A05,A05,14.225,14.0,14.5,0.222,4,0.5,True

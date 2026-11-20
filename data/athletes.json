@@ -1,0 +1,26 @@
+{
+    "A01": {
+        "alias": "Athlete 1",
+        "age_group": "U18"
+    },
+    "A02": {
+        "alias": "Athlete 2",
+        "age_group": "U18"
+    },
+    "A03": {
+        "alias": "Athlete 3",
+        "age_group": "Senior"
+    },
+    "A04": {
+        "alias": "Athlete 4",
+        "age_group": "Senior"
+    },
+    "A05": {
+        "alias": "Athlete 5",
+        "age_group": "U18"
+    },
+    "A06": {
+        "alias": "Athlete 6",
+        "age_group": "Senior"
+    }
+}
